@@ -1,0 +1,149 @@
+{
+  "footballShirts": [
+    {
+      "id": 1,
+      "teamName": "FC Barcelona",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 89.99,
+      "manufacturer": "Nike",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779351158/OIP_nivssp.webp",
+      "stock": true,
+      "rating": 4.8,
+      "description": "Classic Blaugrana stripes with modern design"
+    },
+    {
+      "id": 2,
+      "teamName": "Real Madrid",
+      "season": "2026/26",
+      "shirtType": "Home",
+      "price": 94.99,
+      "manufacturer": "Adidas",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/f_auto,q_auto/adidas-camiseta-real-madrid-2025-2026_jos5wm",
+      "stock": true,
+      "rating": 4.9,
+      "description": "Iconic all-white jersey with gold details"
+    },
+    {
+      "id": 3,
+      "teamName": "Manchester United",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 84.99,
+      "manufacturer": "Adidas",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779351622/OIP_1_et7wfl.webp",
+      "stock": true,
+      "rating": 4.6,
+      "description": "Red devils classic with black accents"
+    },
+    {
+      "id": 4,
+      "teamName": "Bayern Munich",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 89.99,
+      "manufacturer": "Adidas",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779351704/re_1749550415_bayern-munich-2025-2026-home-shirt-500x0_jrsp8c.jpg",
+      "stock": true,
+      "rating": 4.7,
+      "description": "Traditional Bavarian red with golden trim"
+    },
+    {
+      "id": 5,
+      "teamName": "Paris Saint-Germain",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 94.99,
+      "manufacturer": "Nike",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779351773/camiseta-futbol-paris-saint-germain-primera-equipacion-2025-2026_xntom9.jpg",
+      "stock": true,
+      "rating": 4.8,
+      "description": "Navy blue with signature red stripe"
+    },
+    {
+      "id": 6,
+      "teamName": "Liverpool FC",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 84.99,
+      "manufacturer": "Adidas",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779351819/re_1754278459_liverpool-adidas-2025-2026-authentic-home-football-shirt_zkqb9x.jpg",
+      "stock": true,
+      "rating": 4.7,
+      "description": "Classic red with You'll Never Walk Alone spirit"
+    },
+    {
+      "id": 7,
+      "teamName": "AC Milan",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 89.99,
+      "manufacturer": "Puma",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779352678/camiseta-puma-ac-milan-primera-equipacion-authentic-2025-2026-red-5_l6dzls.webp",
+      "stock": false,
+      "rating": 4.5,
+      "description": "Legendary red and black stripes"
+    },
+    {
+      "id": 8,
+      "teamName": "Chelsea FC",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 84.99,
+      "manufacturer": "Nike",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779351920/313556_nike-chelsea-thuisshirt-authentic-2025-2026_nhkehl.webp",
+      "stock": true,
+      "rating": 4.6,
+      "description": "Royal blue with London pride"
+    },
+    {
+      "id": 9,
+      "teamName": "Malaga CF",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 89.99,
+      "manufacturer": "Hummel",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779352102/Maillot-Malaga-Domicile-2025-2026-1-768x768_cd6ajf.jpg",
+      "stock": true,
+      "rating": 4.6,
+      "description": "Royal blue "},
+
+    
+    {
+      "id": 10,
+      "teamName": "Inter Milan",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 89.99,
+      "manufacturer": "Nike",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779351966/252356_1_ngmwni.jpg",
+      "stock": true,
+      "rating": 4.8,
+      "description": "Rossoneri tradition meets modern style"
+    },
+    {
+      "id": 11,
+      "teamName": "Real Betis",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 100.00,
+      "manufacturer": "Hummel",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779386322/5715688726832_xt3nvd.webp",
+      "stock": true,
+      "rating": 4.6,
+      "description": "The best in the world"
+    },
+    {
+      "id": 12,
+      "teamName": "Atletico Madrid",
+      "season": "2025/26",
+      "shirtType": "Home",
+      "price": 84.99,
+      "manufacturer": "Nike",
+      "imageUrl": "https://res.cloudinary.com/dn4enofhl/image/upload/q_auto/f_auto/v1779352451/OIP_2_lg1m6p.webp",
+      "stock": true,
+      "rating": 4.7,
+      "description": "Red and white stripes with Colchoneros passion"
+    }
+  ]
+}
