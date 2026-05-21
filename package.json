@@ -1,0 +1,22 @@
+{
+  "name": "football-shirts-gallery",
+  "version": "1.0.0",
+  "description": "Premium football jerseys catalog with dynamic card gallery",
+  "main": "app.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3000",
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [
+    "football",
+    "jerseys",
+    "catalog",
+    "bootstrap",
+    "json-server"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
